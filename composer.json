@@ -1,0 +1,10 @@
+{
+    "name": "mindblendr/sample",
+    "authors": [
+        {
+            "name": "Aljon Cruz",
+            "email": "mindblendr@gmail.com"
+        }
+    ],
+    "require": {}
+}
