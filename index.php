@@ -6,6 +6,6 @@
     <title>Sample</title>
 </head>
 <body>
-    Sample page
+    Sample page updated
 </body>
 </html>
