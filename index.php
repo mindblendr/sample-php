@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample</title>
-</head>
-<body>
-    Sample page updated
-</body>
-</html>
+<?php
+
+require_once 'vendor/autoload.php';
+
+$faker = Faker\Factory::create();
+
+var_dump($faker);

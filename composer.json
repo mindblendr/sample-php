@@ -6,5 +6,7 @@
             "email": "mindblendr@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "fakerphp/faker": "^1.12"
+    }
 }
